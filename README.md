@@ -6,6 +6,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
+# https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.espn.com.br%2Fmlb%2Fjogador%2F_%2Fid%2F40951%2Fjose-barrero&psig=AOvVaw13us_hulkyb13Jv0zoZCxy&ust=1711494565379000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOjKqJ_EkIUDFQAAAAAdAAAAABAJ
+
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
