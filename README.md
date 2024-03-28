@@ -88,7 +88,7 @@ Requisitos não funcionais
 
 
 ## Sprint 1. Concepção
--[] sei la 
+- [ ] sei la 
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Documento passo a passo;
