@@ -17,7 +17,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+O prsente projeto tem por objetivvo crair uma interface de dados para a visualização da viabilidade de exportação de determinados produtos pelo aeroporto de São José dos Campos.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
